@@ -87,3 +87,4 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score,confusion_matrix
 ```
 # RESULT:
+The given data and perform Feature Scaling and Feature Selection process and save the data to a file is perform successfully
